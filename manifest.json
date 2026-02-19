@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Get Unlimited ores without turing off achievements",
+      "name": "§bX-Ray MC",
+      "uuid": "d3da72a0-cb22-41f7-98b9-bfdf70a2c111",
+      "version": [ 1, 5, 5 ],
+      "min_engine_version": [1,20,0]
+    },
+    "modules": [
+      {
+        "description": "Get Unlimited ores without turing off achievements",
+        "type": "resources",
+        "uuid": "2662a543-c445-4c68-9f46-36c5f18c0b33",
+        "version": [ 1, 5, 5]
+      }
+    ],
+    "metadata": {
+      "authors": ["RisabGamerz"]
+    }
+  }

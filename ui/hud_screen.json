@@ -1,0 +1,23 @@
+{
+  "namespace": "playing_screen",
+  
+  "hud_content": {
+      
+    "modifications": [
+      {
+        "array_name": "controls",
+        "operation": "insert_front",
+        "value": {
+            
+          "White": {
+            "type": "image",
+            "texture": "textures/ui/white",
+            "alpha": 0.05,
+            "layer": 5,
+            "size": [ 4072, 4072 ]
+          }
+        }
+      }
+    ]
+  }
+}

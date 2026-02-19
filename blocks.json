@@ -1,0 +1,87 @@
+{
+    "format_version": "1.20.0",
+    "basalt": {
+        "blockshape": "invisible"
+    },
+    "blackstone": {
+        "blockshape": "invisible"
+    },
+    "calcite": {
+        "blockshape": "invisible"
+    },
+    "clay": {
+        "blockshape": "invisible"
+    },
+    "crimson_hyphae": {
+        "blockshape": "invisible"
+    },
+    "crimson_nylium": {
+        "blockshape": "invisible"
+    },
+    "crimson_roots": {
+        "blockshape": "invisible"
+    },
+    "deadbush": {
+        "blockshape": "invisible"
+    },
+    "deepslate": {
+        "blockshape": "invisible"
+    },
+    "dripstone_block": {
+        "blockshape": "invisible"
+    },
+    "glow_lichen": {
+        "blockshape": "invisible"
+    },
+    "gravel": {
+        "blockshape": "end_rod"
+    },
+    "hanging_roots": {
+        "blockshape": "invisible"
+    },
+    "hardened_clay": {
+        "blockshape": "invisible"
+    },
+    "moss_block": {
+        "blockshape": "invisible"
+    },
+    "moss_carpet": {
+        "blockshape": "invisible"
+    },
+    "mud": {
+        "blockshape": "invisible"
+    },
+    "muddy_mangrove_roots": {
+        "blockshape": "invisible"
+    },
+    "mushroom_stem": {
+        "blockshape": "invisible"
+    },
+    "mycelium": {
+        "blockshape": "invisible"
+    },
+    "netherrack": {
+        "blockshape": "invisible"
+    },
+    "reeds": {
+        "blockshape": "invisible"
+    },
+    "soul_sand": {
+        "blockshape": "invisible"
+    },
+    "soul_soil": {
+        "blockshape": "invisible"
+    },
+    "stone": {
+        "blockshape": "invisible"
+    },
+    "tuff": {
+        "blockshape": "invisible"
+    },
+    "warped_nylium": {
+        "blockshape": "invisible"
+    },
+    "warped_roots": {
+        "blockshape": "invisible"
+    }
+}
